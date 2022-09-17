@@ -1,24 +1,6 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+redis
+・https://redis.io/
+・https://github.com/redis-store/redis-rails
+・https://qiita.com/hirotakasasaki/items/9819a4e6e1f33f99213c
+・https://qiita.com/WisteriaWave/items/1f799fa20f491b37989e
+・https://www.youtube.com/watch?v=64VG179N4no&list=PLS1QulWo1RIYZZxQdap7Sd0ARKFI-XVsd
